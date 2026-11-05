@@ -1,9 +1,12 @@
 """Перцептрон"""
+
 import numpy as np
 from numpy.typing import NDArray
 
+
 class Perceptron:
     """Перцептрон для двух классов: 0 и 1"""
+
     def __init__(
         self, n_features: int, learning_rate: float = 0.1, epochs: int = 50
     ) -> None:
