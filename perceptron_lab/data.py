@@ -1,3 +1,5 @@
+"""Здесь создаём точки и загружаем iris."""
+
 import numpy as np
 from numpy.typing import NDArray
 from sklearn.datasets import load_iris

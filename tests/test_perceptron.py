@@ -1,3 +1,5 @@
+"""Здесь тесты."""
+
 import numpy as np
 
 from perceptron_lab.cli import main

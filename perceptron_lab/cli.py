@@ -1,3 +1,5 @@
+"""Здесь читаем аргументы из терминала и запускаем обучение."""
+
 import argparse
 from pathlib import Path
 

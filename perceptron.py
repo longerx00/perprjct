@@ -1,4 +1,4 @@
-"""Запуск: python perceptron.py --samples 200 --lr 0.1 --epochs 50."""
+"""Здесь запускается вся программа."""
 
 from perceptron_lab.cli import main
 
