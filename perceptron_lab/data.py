@@ -1,4 +1,4 @@
-"""Здесь создаём точки и загружаем iris."""
+"""Здесь создаём точки и загружаем iris"""
 
 import numpy as np
 from numpy.typing import NDArray
