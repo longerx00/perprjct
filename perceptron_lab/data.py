@@ -1,5 +1,3 @@
-"""Данные для перцептрона: два облака точек на плоскости и часть датасета iris."""
-
 import numpy as np
 from numpy.typing import NDArray
 from sklearn.datasets import load_iris
